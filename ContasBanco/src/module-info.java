@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ContasBanco {
+module JavaDocLearning {
 }
